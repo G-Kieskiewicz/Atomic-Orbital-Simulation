@@ -68,4 +68,4 @@ This is a personal learning project. Questions and bug reports are welcome via G
 
 ## License
 
-MIT © Gabriel A. Kieskiewicz
+[MIT](LICENSE) © `Gabriel A. Kieskiewicz`
